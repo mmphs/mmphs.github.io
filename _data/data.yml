@@ -60,18 +60,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi, my name's Jeroen Neyt and I'm a back-end developer with a passion for network automation and infrastructure.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: BSc in Computer Engineering
         university: Universitat de Girona
-        time: 2011 - 2012
+        time: 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +75,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Electronics & IT
+        university: KaHo Sint-Lieven
+        time: 2008 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -95,9 +90,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior DevOps Engineer
+        time: 2016 - Present
+        company: Skyline Communications, Izegem, Belgium
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,9 +105,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: DevOps Engineer
+        time: 2012 - 2016
+        company: Skyline Communications, Izegem, Belgium
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,9 +116,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Junior Java Web Developer
+        time: 2010
+        company: Encima, Torhout, Belgium
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -182,43 +177,41 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
-        link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
-        link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
-        link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
-        link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Delta
-        link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C/C++
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: .NET
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 65%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: JavaScript
+        level: 50%
 
-      - name: Sketch & Photoshop
+      - name: Azure
         level: 60%
+
+      - name: Terraform
+        level: 20%
