@@ -71,7 +71,7 @@ education:
         university: Universitat de Girona
         time: 2011
         details: |
-          Bachelor Thesis: Multicast File Distribution
+          Bachelor Thesis: Multicast File Distribution\
           The development of a solution for the University of Girona, providing a centralized control panel for configuring file distribution to a designated multicast address. 
           This solution is used to facilitate the provisioning of computers with essential curriculum files at the beginning of the academic year.
       - degree: BSc in Electronics & IT
