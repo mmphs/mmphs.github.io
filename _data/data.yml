@@ -62,10 +62,8 @@ career-profile:
     summary: |
       I'm a 34-year-old DevOps engineer currently based in Bruges, Belgium, with a primary focus on back-end development within the Microsoft stack.
 
+      I also enjoy exploring front-end development and more specifically user interfaces for the web.
 
-
-      
-      I also enjoy exploring front-end development and more specifically user interfaces for the web.\
       My interest has been increasingly drawn towards network and infrastructure automation, and I'm eager to delve deeper into this domain to broaden my expertise.
       
 education:
@@ -75,7 +73,8 @@ education:
         university: Universitat de Girona
         time: 2011
         details: |
-          Bachelor Thesis: Multicast File Distribution\
+          Bachelor Thesis: Multicast File Distribution
+
           The development of a solution for the University of Girona, providing a centralized control panel for configuring file distribution to a designated multicast address. 
           This solution is used to facilitate the provisioning of computers with essential curriculum files at the beginning of the academic year.
 
@@ -91,21 +90,24 @@ experiences:
         time: 2016 - Present
         company: Skyline Communications, Izegem, Belgium
         details: |
-          Development and operations of DataMiner, a modular monitoring and orchestration software suite.\
-          Main focus is on the monitoring of the data and exploring diverse methods of data ingestion into the platform.
+          Development and operations of DataMiner, a modular monitoring and orchestration software suite.
+
+          Main focus is on the back-end development in C/C++ of the data monitoring module and exploring diverse methods of data ingestion into the platform.
 
       - role: DevOps Engineer
         time: 2012 - 2016
         company: Skyline Communications, Izegem, Belgium
         details: |
-          Development and operations of DataMiner, a modular monitoring and orchestration software suite.\
-          Main focus is on the monitoring of the data and exploring diverse methods of data ingestion into the platform.
+          Development and operations of DataMiner, a modular monitoring and orchestration software suite.
+
+          Main focus is on the back-end development in C/C++ of the data monitoring module and exploring diverse methods of data ingestion into the platform.
 
       - role: Junior Java Web Developer
         time: 2010
         company: Encima, Torhout, Belgium
         details: |
-          Summer internship\
+          Summer internship
+
           Development of a web form which outputs its data on a PDF template and automatically sends the completed document to the administration department.
 
 certifications:
@@ -161,13 +163,15 @@ projects:
     intro: 
     assignments:
       - title: Public
-        tagline: >
+        tagline: |
           A social media web application where people could share their location check-ins.
+
           Back-end written in PHP, front-end in HTML5, CSS and JavaScript.
 
       - title: eHive
-        tagline: >
+        tagline: |
           A project management web application with a focus on collaboration and time tracking.
+          
           Back-end written in PHP, front-end in HTML5, CSS and JavaScript.
 
       - title: DigiSenior
