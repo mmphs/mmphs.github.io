@@ -119,8 +119,8 @@ certifications:
           end:
           organization: Scrum.org
           credentialid:
-          credentialurl: https://scrum.org
-          credentialname: Scrum.org
+          credentialurl: 
+          credentialname: 
           details:
 
         - name: CCNA Exploration - Accessing the WAN
@@ -128,8 +128,8 @@ certifications:
           end:
           organization: Cisco
           credentialid:
-          credentialurl: https://www.cisco.com/
-          credentialname: Cisco
+          credentialurl: 
+          credentialname: 
           details:
 
         - name: CCNA Exploration - LAN Switching and Wireless
@@ -137,8 +137,8 @@ certifications:
           end:
           organization: Cisco
           credentialid:
-          credentialurl: https://www.cisco.com/
-          credentialname: Cisco
+          credentialurl: 
+          credentialname:
           details:
 
         - name: CCNA Exploration - Routing Protocols and Concepts
@@ -146,8 +146,8 @@ certifications:
           end:
           organization: Cisco
           credentialid:
-          credentialurl: https://www.cisco.com/
-          credentialname: Cisco
+          credentialurl: 
+          credentialname: 
           details:
 
         - name: CCNA Exploration - Network Fundamentals
@@ -155,53 +155,50 @@ certifications:
           end:
           organization: Cisco
           credentialid:
-          credentialurl: https://www.cisco.com/
-          credentialname: Cisco
+          credentialurl: 
+          credentialname:
           details:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Public
+        tagline: A social media web application where people could share their location check-ins. Back-end written in PHP, front-end in HTML5, CSS and JavaScript.
 
-      - title: DevStudio
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: eHive
+        tagline: A project management web application with a focus on collaboration and time tracking. Back-end written in PHP, front-end in HTML5, CSS and JavaScript.
 
-      - title: Tempo
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: DigiSenior
+        tagline: A bi-weekly gathering where basic computer skills are introduced to elderly people.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: C/C++
-        level: 75%
+        level: 80%
 
-      - name: .NET
+      - name: MySQL
         level: 70%
 
-      - name: Python
+      - name: .NET
         level: 65%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 65%
+
+      - name: Python
+        level: 50%
 
       - name: JavaScript
         level: 50%
 
       - name: Azure
-        level: 60%
+        level: 40%
+
+      -name: Docker
+        level: 40%
 
       - name: Terraform
         level: 20%
