@@ -197,7 +197,7 @@ skills:
       - name: Azure
         level: 40%
 
-      -name: Docker
+      - name: Docker
         level: 40%
 
       - name: Terraform
