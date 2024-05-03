@@ -157,12 +157,14 @@ projects:
     intro: 
     assignments:
       - title: Public
-        tagline: A social media web application where people could share their location check-ins.\
-        Back-end written in PHP, front-end in HTML5, CSS and JavaScript.
+        tagline: |
+          A social media web application where people could share their location check-ins.\
+          Back-end written in PHP, front-end in HTML5, CSS and JavaScript.
 
       - title: eHive
-        tagline: A project management web application with a focus on collaboration and time tracking.\
-        Back-end written in PHP, front-end in HTML5, CSS and JavaScript.
+        tagline: |
+          A project management web application with a focus on collaboration and time tracking.\
+          Back-end written in PHP, front-end in HTML5, CSS and JavaScript.
 
       - title: DigiSenior
         tagline: A bi-weekly gathering where basic computer skills are introduced to elderly people.
