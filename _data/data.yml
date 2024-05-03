@@ -60,8 +60,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a 34-year-old DevOps engineer currently based in Bruges, Belgium, with a primary focus on back-end development within the Microsoft stack.
-      I also enjoy exploring front-end development and more specifically user interfaces for the web.
+      I'm a 34-year-old DevOps engineer currently based in Bruges, Belgium, with a primary focus on back-end development within the Microsoft stack.\
+      I also enjoy exploring front-end development and more specifically user interfaces for the web.\
       My interest has been increasingly drawn towards network and infrastructure automation, and I'm eager to delve deeper into this domain to broaden my expertise.
       
 education:
@@ -74,6 +74,7 @@ education:
           Bachelor Thesis: Multicast File Distribution\
           The development of a solution for the University of Girona, providing a centralized control panel for configuring file distribution to a designated multicast address. 
           This solution is used to facilitate the provisioning of computers with essential curriculum files at the beginning of the academic year.
+
       - degree: BSc in Electronics & IT
         university: KaHo Sint-Lieven
         time: 2008 - 2011
@@ -97,69 +98,66 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
+
       - role: DevOps Engineer
         time: 2012 - 2016
         company: Skyline Communications, Izegem, Belgium
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details:
+
       - role: Junior Java Web Developer
         time: 2010
         company: Encima, Torhout, Belgium
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Summer internship\
+          Development of a web form which outputs its data on a PDF template and automatically sends the completed document to the administration department.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Professional Scrum Master I
           start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          organization: 
+          credentialid:
+          credentialurl: https://scrum.org
+          credentialname: Scrum.org
+          details:
+
+        - name: CCNA Exploration: Accessing the WAN
+          start: 2010
+          end:
+          organization: 
+          credentialid:
+          credentialurl: https://www.cisco.com/
+          credentialname: Cisco
+          details:
+
+        - name: CCNA Exploration: LAN Switching and Wireless
+          start: 2010
+          end:
+          organization: 
+          credentialid:
+          credentialurl: https://www.cisco.com/
+          credentialname: Cisco
+          details:
+
+        - name: CCNA Exploration: Routing Protocols and Concepts
+          start: 2009
+          end:
+          organization: 
+          credentialid:
+          credentialurl: https://www.cisco.com/
+          credentialname: Cisco
+          details:
+
+        - name: CCNA Exploration: Network Fundamentals
+          start: 2009
+          end:
+          organization: 
+          credentialid:
+          credentialurl: https://www.cisco.com/
+          credentialname: Cisco
+          details:
 
 projects:
     title: Projects
