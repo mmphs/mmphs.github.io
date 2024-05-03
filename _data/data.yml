@@ -117,7 +117,7 @@ certifications:
         - name: Professional Scrum Master I
           start: 2020
           end:
-          organization: 
+          organization: Scrum.org
           credentialid:
           credentialurl: https://scrum.org
           credentialname: Scrum.org
@@ -126,7 +126,7 @@ certifications:
         - name: CCNA Exploration - Accessing the WAN
           start: 2010
           end:
-          organization: 
+          organization: Cisco
           credentialid:
           credentialurl: https://www.cisco.com/
           credentialname: Cisco
@@ -135,7 +135,7 @@ certifications:
         - name: CCNA Exploration - LAN Switching and Wireless
           start: 2010
           end:
-          organization: 
+          organization: Cisco
           credentialid:
           credentialurl: https://www.cisco.com/
           credentialname: Cisco
@@ -144,7 +144,7 @@ certifications:
         - name: CCNA Exploration - Routing Protocols and Concepts
           start: 2009
           end:
-          organization: 
+          organization: Cisco
           credentialid:
           credentialurl: https://www.cisco.com/
           credentialname: Cisco
@@ -153,7 +153,7 @@ certifications:
         - name: CCNA Exploration - Network Fundamentals
           start: 2009
           end:
-          organization: 
+          organization: Cisco
           credentialid:
           credentialurl: https://www.cisco.com/
           credentialname: Cisco
