@@ -123,7 +123,7 @@ certifications:
           credentialname: Scrum.org
           details:
 
-        - name: CCNA Exploration: Accessing the WAN
+        - name: CCNA Exploration - Accessing the WAN
           start: 2010
           end:
           organization: 
@@ -132,7 +132,7 @@ certifications:
           credentialname: Cisco
           details:
 
-        - name: CCNA Exploration: LAN Switching and Wireless
+        - name: CCNA Exploration - LAN Switching and Wireless
           start: 2010
           end:
           organization: 
@@ -141,7 +141,7 @@ certifications:
           credentialname: Cisco
           details:
 
-        - name: CCNA Exploration: Routing Protocols and Concepts
+        - name: CCNA Exploration - Routing Protocols and Concepts
           start: 2009
           end:
           organization: 
@@ -150,7 +150,7 @@ certifications:
           credentialname: Cisco
           details:
 
-        - name: CCNA Exploration: Network Fundamentals
+        - name: CCNA Exploration - Network Fundamentals
           start: 2009
           end:
           organization: 
