@@ -164,7 +164,7 @@ projects:
     assignments:
       - title: Public
         tagline: >
-          A social media web application where people could share their location check-ins.
+          A social media web application where people can share their location check-ins.
           Back-end written in PHP, front-end in HTML5, CSS and JavaScript.
 
       - title: eHive
